@@ -77,28 +77,6 @@ const myProjects = [
   }
 ];
 
-<!--demo project-->
- <div class="container">
-            <div class="row">
-
-                <div class="text-center col-md-4">
-                    <!-- Start .project-info -->
-                    <div class="project shadow-large">
-                        <div class="project-image">
-                            <img src="images/flutter.png" alt="Flutter" width="150" height="150" />
-                        </div>
-                        <!-- End .project-image -->
-                        <div class="project-info">
-                            <h3 align="center">Face mask detector using Flutter</h3>
-                            <a href="https://github.com/madhank93/face-mask-detector" target="_blank">View
-                                Project</a>
-                        </div>
-                        <!-- End .project-info -->
-                    </div>
-                    <!-- End .project -->
-                </div>
-<!--demo end-->
-
 const Projects = () => {
   const [element, controls] = useScroll();
   return (
