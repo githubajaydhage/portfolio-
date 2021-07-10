@@ -42,7 +42,7 @@ const myProjects = [
     image: "/images/invoice.png",
     title: "Invoice Application",
     description:
-      "User can Signup with google api and from iserting own data. After Login They can create a invoice Bonus- Can generate bill in form of PDF",
+      "User can Signup with google api and from inserting own data. After Login They can create a invoice Bonus- Can generate bill in form of PDF",
     source: "https://github.com/githubajaydhage/kontext-invoice-app",
     badge:"ReactJS"
     // demoLink: "https://headphoonestore.netlify.app/",
@@ -65,6 +65,15 @@ const myProjects = [
     source: "https://github.com/githubajaydhage/covidSaharsa",
     demoLink: "https://covidsaharsa.netlify.app/",
     badge:"ReactJS",
+  }
+   {
+    image: "/images/covid.png",
+    title: "Music Player Web-App based on Django",
+    description:
+      "Tools: Django, HTML, CSS, Bootstrap, SQLite, AWS S3, Heroku Register/login to the web app(with OAuth-based Google Sign-In). Search and filter songs based on language and singer. Create multiple playlists and add/remove songs to/from playlist. Scroll through recently played/viewed songs",
+    source: "https://github.com/githubajaydhage/music-player",
+    demoLink: "https://galvanic-music.herokuapp.com/",
+    badge:"Django", "HTML", "CSS", "Bootstrap", "SQLite", "AWS S3", "Heroku",
   }
 ];
 
