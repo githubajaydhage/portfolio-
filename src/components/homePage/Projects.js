@@ -66,6 +66,15 @@ const myProjects = [
     demoLink: "https://covidsaharsa.netlify.app/",
     badge:"ReactJS",
   },
+  {
+    image: "/images/invoice.png",
+    title: "Invoice Application",
+    description:
+      "User can Signup with google api and from inserting own data. After Login They can create a invoice Bonus- Can generate bill in form of PDF",
+    source: "https://github.com/githubajaydhage/kontext-invoice-app",
+    badge:"ReactJS"
+    // demoLink: "https://headphoonestore.netlify.app/",
+  },
    {
     image: "/images/project-music-player.png",
     title: "Music Player Web-App based on Django",
