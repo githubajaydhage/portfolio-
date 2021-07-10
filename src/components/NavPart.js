@@ -49,7 +49,7 @@ const NavPart = () => {
                  <LinkedInIcon/>
                 </Nav.Link>
                 <Nav.Link
-                  href="https://github.com/ajaydhage"
+                  href="https://github.com/githubajaydhage"
                   className="nav-item cursor-pointer"
                   target="_blank"
                 >
