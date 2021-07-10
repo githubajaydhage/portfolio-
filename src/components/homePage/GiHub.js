@@ -22,7 +22,7 @@ const GitHub = () => {
           </h1>
         </div>
         <Row>
-        <codersrank-activity username="ajaydhage"></codersrank-activity>
+        <codersrank-activity username="dhageajay008"></codersrank-activity>
         </Row>
         <Row>
         </Row>
