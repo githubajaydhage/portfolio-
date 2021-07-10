@@ -65,7 +65,7 @@ const myProjects = [
     source: "https://github.com/githubajaydhage/covidSaharsa",
     demoLink: "https://covidsaharsa.netlify.app/",
     badge:"ReactJS",
-  }
+  },
    {
     image: "/images/project-music-player.png",
     title: "Music Player Web-App based on Django",
