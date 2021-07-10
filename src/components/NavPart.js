@@ -56,7 +56,7 @@ const NavPart = () => {
                   <GitHubIcon />
                 </Nav.Link>
                 <Nav.Link
-                  href="https://www.hackerrank.com/amananku26"
+                  href="https://www.hackerrank.com/dhageajay008"
                   className="nav-item cursor-pointer"
                   target="_blank"
                 >
@@ -67,7 +67,7 @@ const NavPart = () => {
                   />
                 </Nav.Link>
                 <Nav.Link
-                  href="https://medium.com/@amananku"
+                  href="https://medium.com/@dhageajay008"
                   className="nav-item cursor-pointer"
                   target="_blank"
                 >
@@ -78,14 +78,14 @@ const NavPart = () => {
                   />
                 </Nav.Link>
                 <Nav.Link
-                  href="https://www.youtube.com/c/AmanAnku"
+                  href="https://www.youtube.com/Creativeminds"
                   className="nav-item cursor-pointer"
                   target="_blank"
                 >
                   <YouTubeIcon/>
                 </Nav.Link>
                 <Nav.Link
-                  href="https://stackoverflow.com/users/14988771/aman-anku"
+                  href="https://stackoverflow.com/users/16420995/ajay-dhage"
                   className="nav-item cursor-pointer"
                   target="_blank"
                 >
