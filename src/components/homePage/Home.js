@@ -26,12 +26,12 @@ const Home = () => {
                 <TransformText  />
                 </motion.h5>
                 <motion.h1 variants={titleAnim} className="mb-4">
-                  Hi, I'm <span className="chonburi-font green-text">Aman</span>
-                  Anku
+                  Hi, I'm <span className="chonburi-font green-text">Ajay</span>
+                  Dhage
                 </motion.h1>
                 <motion.h2 variants={titleAnim} className="mb-4">
-                  <span className="chonburi-font green-text">Web Developer At</span>{" "}
-                  Simplotel Technologies Private Limited
+                  <span className="chonburi-font green-text">Web Developer/Designer</span>{" "}
+                  UI/UX Specialist, Python Developer.
                 </motion.h2>
               </motion.div>
             </Col>
