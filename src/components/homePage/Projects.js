@@ -67,7 +67,7 @@ const myProjects = [
     badge:"ReactJS",
   }
    {
-    image: "/images/covid.png",
+    image: "/images/project-music-player.png",
     title: "Music Player Web-App based on Django",
     description:
       "Tools: Django, HTML, CSS, Bootstrap, SQLite, AWS S3, Heroku Register/login to the web app(with OAuth-based Google Sign-In). Search and filter songs based on language and singer. Create multiple playlists and add/remove songs to/from playlist. Scroll through recently played/viewed songs",
