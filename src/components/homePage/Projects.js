@@ -103,7 +103,7 @@ const Projects = () => {
         variants={window.innerWidth > 767 ? scrollReveal : null}
         ref={element}
         animate={controls}
-        className="container pt-9 pb-9"
+        className="container pt-6 pb-6"
       >
         <div className="heading-section">
           <h1>
