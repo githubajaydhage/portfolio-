@@ -75,7 +75,16 @@ const myProjects = [
     badge:"ReactJS"
     // demoLink: "https://headphoonestore.netlify.app/",
   },
-   {
+  {
+    image: "/images/project-music-player.png",
+    title: "Music Player Web-App based on Django",
+    description:
+      "Tools: Django, HTML, CSS, Bootstrap, SQLite, AWS S3, Heroku Register/login to the web app(with OAuth-based Google Sign-In). Search and filter songs based on language and singer. Create multiple playlists and add/remove songs to/from playlist. Scroll through recently played/viewed songs",
+    source: "https://github.com/githubajaydhage/music-player",
+    demoLink: "https://galvanic-music.herokuapp.com/",
+    badge:"Django", "HTML", "CSS", "Bootstrap", "SQLite", "AWS S3", "Heroku",
+  }
+  {
     image: "/images/project-music-player.png",
     title: "Music Player Web-App based on Django",
     description:
@@ -94,7 +103,7 @@ const Projects = () => {
         variants={window.innerWidth > 767 ? scrollReveal : null}
         ref={element}
         animate={controls}
-        className="container pt-6 pb-6"
+        className="container pt-9 pb-9"
       >
         <div className="heading-section">
           <h1>
