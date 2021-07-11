@@ -94,6 +94,9 @@ const myProjects = [
     badge:"Django", "HTML", "CSS", "Bootstrap", "SQLite", "AWS S3", "Heroku",
   }
 ];
+<a href="https://github.com/githubajaydhage" target="_blank">
+  <Button> View More Projects </Button>
+</a>
 
 const Projects = () => {
   const [element, controls] = useScroll();
