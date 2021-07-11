@@ -97,6 +97,20 @@ const myProjects = [
 <a href="https://github.com/githubajaydhage" target="_blank">
   <Button> View More Projects </Button>
 </a>
+<div className="mt-5">
+                <Row className="tabs mb-2">
+                  <Col
+                    className={`
+                      ${
+                        tab === "experience"
+                          ? "active-tab custom-mr-3"
+                          : "inactive-tab"
+                      } tab`}
+                    onClick={() => setTab("experience")}
+                  >
+                    <WorkIcon />
+                    <h5 a href="https://github.com/githubajaydhage" target="_blank">View More Projects</h5>
+                  </Col>
 
 const Projects = () => {
   const [element, controls] = useScroll();
